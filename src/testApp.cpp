@@ -153,6 +153,7 @@ void testApp::setup () {
 
 void testApp::update () {
     
+    //update
     kinect.update();
     indicator.update();
     metronome.update();

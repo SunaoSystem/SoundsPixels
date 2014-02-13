@@ -52,5 +52,6 @@ public:
     Metronome metronome;
     
     ofSoundPlayer sound[6][24];
+    int a;
     
 };
